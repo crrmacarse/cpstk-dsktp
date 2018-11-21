@@ -1,0 +1,84 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe.config
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLoadingScreen.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmMain.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLogin.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucNumpad.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmUser.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmAccount.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmExamSched.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmGrades.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmExamSched.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmAccount.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmGrades.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLoadingScreen.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLogin.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmMain.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmUser.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucNumpad.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.vbproj.GenerateResource.Cache
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe.config
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.exe
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.xml
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.xml
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmExamSched.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmAccount.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmGrades.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLoadingScreen.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLogin.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmMain.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmUser.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.Resources.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucNumpad.resources
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.vbproj.GenerateResource.Cache
+C:\Users\enduser\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmNumpad.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmNumpad.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe.config
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.exe
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.pdb
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\bin\Debug\CPUSmartTouchKiosk.xml
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmClassSched.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmEvents.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmExamSchedule.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmGenesis.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmKeyboard.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmHistory.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmMessageBox.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmShutdown.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmCampusMap.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmCampusMapEditor.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmCampusMapResult.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmChangePassword.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmSettings.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmGrades.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLoadingScreen.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmLogin.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmMain.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.frmUser.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.Resources.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucAdvertisement.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucKeyboard.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucNumpad.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.ucResult.resources
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.exe
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.xml
+C:\Users\DELL\Desktop\Visual Studio 2012 (latest project)\Projects\CPUSmartTouchKiosk\CPUSmartTouchKiosk\obj\Debug\CPUSmartTouchKiosk.pdb

@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{576B6E22-0187-4C8E-9D16-E2258FD90096}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CPUSmartTouchKiosk.My.MyApplication</StartupObject>
+    <RootNamespace>CPUSmartTouchKiosk</RootNamespace>
+    <AssemblyName>CPUSmartTouchKiosk</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CPUSmartTouchKiosk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CPUSmartTouchKiosk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.VisualBasic.PowerPacks.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class Schedule\Dialog\frmClassSched.Designer.vb">
+      <DependentUpon>frmClassSched.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Class Schedule\Dialog\frmClassSched.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\ManagementClass.vb" />
+    <Compile Include="Module\ManagementObject.vb" />
+    <Compile Include="Navigation\clsDijkstra.vb" />
+    <Compile Include="Navigation\clsGraph.vb" />
+    <Compile Include="Class\clsKeyValuePair.vb" />
+    <Compile Include="Navigation\clsLandmark.vb" />
+    <Compile Include="Navigation\clsMarker.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class\clsSchoolYear.vb" />
+    <Compile Include="Class\clsUser_Account.vb" />
+    <Compile Include="Events\Dialog\frmEvents.Designer.vb">
+      <DependentUpon>frmEvents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Events\Dialog\frmEvents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exam Schedule\Dialog\frmExamSchedule.Designer.vb">
+      <DependentUpon>frmExamSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Exam Schedule\Dialog\frmExamSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmGenesis.Designer.vb">
+      <DependentUpon>frmGenesis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmGenesis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History\Dialog\frmHistory.Designer.vb">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="History\Dialog\frmHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmKeyboard.Designer.vb">
+      <DependentUpon>frmKeyboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmKeyboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMessageBox.Designer.vb">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmShutdown.Designer.vb">
+      <DependentUpon>frmShutdown.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmShutdown.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\modPrinter.vb" />
+    <Compile Include="Navigation\Dialog\frmCampusMap.Designer.vb">
+      <DependentUpon>frmCampusMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Navigation\Dialog\frmCampusMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navigation\Dialog\frmCampusMapEditor.Designer.vb">
+      <DependentUpon>frmCampusMapEditor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Navigation\Dialog\frmCampusMapEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navigation\Dialog\frmCampusMapResult.Designer.vb">
+      <DependentUpon>frmCampusMapResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Navigation\Dialog\frmCampusMapResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grades\Dialog\frmGrades.Designer.vb">
+      <DependentUpon>frmGrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Grades\Dialog\frmGrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLoadingScreen.Designer.vb">
+      <DependentUpon>frmLoadingScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLoadingScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.Designer.vb">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\modAccountUser.vb" />
+    <Compile Include="Module\modGeneral.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="User Control\ucAdvertisement.Designer.vb">
+      <DependentUpon>ucAdvertisement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\ucAdvertisement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\ucKeyboard.Designer.vb">
+      <DependentUpon>ucKeyboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\ucKeyboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\ucNumpad.Designer.vb">
+      <DependentUpon>ucNumpad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\ucNumpad.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\ucResult.Designer.vb">
+      <DependentUpon>ucResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\ucResult.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Class Schedule\Dialog\frmClassSched.resx">
+      <DependentUpon>frmClassSched.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Events\Dialog\frmEvents.resx">
+      <DependentUpon>frmEvents.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exam Schedule\Dialog\frmExamSchedule.resx">
+      <DependentUpon>frmExamSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmGenesis.resx">
+      <DependentUpon>frmGenesis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmKeyboard.resx">
+      <DependentUpon>frmKeyboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History\Dialog\frmHistory.resx">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMessageBox.resx">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmShutdown.resx">
+      <DependentUpon>frmShutdown.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navigation\Dialog\frmCampusMap.resx">
+      <DependentUpon>frmCampusMap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navigation\Dialog\frmCampusMapEditor.resx">
+      <DependentUpon>frmCampusMapEditor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navigation\Dialog\frmCampusMapResult.resx">
+      <DependentUpon>frmCampusMapResult.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grades\Dialog\frmGrades.resx">
+      <DependentUpon>frmGrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLoadingScreen.resx">
+      <DependentUpon>frmLoadingScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\ucAdvertisement.resx">
+      <DependentUpon>ucAdvertisement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\ucKeyboard.resx">
+      <DependentUpon>ucKeyboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\ucNumpad.resx">
+      <DependentUpon>ucNumpad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\ucResult.resx">
+      <DependentUpon>ucResult.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgpoint10x10.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
